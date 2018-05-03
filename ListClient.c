@@ -1,4 +1,4 @@
-//By: Faisal Shaikh
+// Faisal Shaikh
 /****************************************************************************************
 *  ListClient.c
 *  Test client for List ADT
