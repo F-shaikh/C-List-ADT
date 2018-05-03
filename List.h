@@ -1,4 +1,4 @@
-//By: Faisal Shaikh
+// Faisal Shaikh
 typedef struct ListObj* List;
 // Constructors-Destructors ---------------------------------------------------
 List newList(void);
