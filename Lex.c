@@ -1,3 +1,4 @@
+//By: Faisal Shaikh
 //-----------------------------------------------------------------------------
 // FileIO.c
 // Illustrates file input-output commands and text processing using the
