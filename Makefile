@@ -1,15 +1,3 @@
-# Faisal Shaikh
-# Fshaikh1@ucsc.edu
-# Student ID: 1463626
-# PA2
-
-#------------------------------------------------------------------------------
-# Makefile for CMPS 101 Programming Assignment 2
-#
-#       make                   makes Lex
-#       make ListClient        makes ListClient
-#------------------------------------------------------------------------------
-
 Lex : Lex.o List.o
 	gcc -o Lex Lex.o List.o
 
