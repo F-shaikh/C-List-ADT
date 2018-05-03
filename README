@@ -1,13 +1,6 @@
-Faisal Shaikh
-Fshaikh1@ucsc.edu
-Student ID: 1463626
-PA 2
-
-FILES SUBMITTED
-
 List.h          ... Contains function headers for List.
 List.c          ... Contains class List. Creates a doubly linked list with manipulation functions and access functions to be used on the list. 
-ListClient.c    ... Provided on webpage. Used to test List.c and provides output.
+ListClient.c    ... Used to test List.c and provides output.
 Lex.c           ... Used to I/O files and contains a sort algorithm to sort in lexicographic order.
 Makefile        ... Compiles all .c files in the current directory and creates an executable called Lex. This is the main program for this project.
 README          ... Contains README
