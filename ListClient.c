@@ -1,8 +1,3 @@
-// Faisal Shaikh
-// Fshaikh1@ucsc.edu
-// Student ID: 1463626
-// PA2
-
 /****************************************************************************************
 *  ListClient.c
 *  Test client for List ADT
