@@ -1,8 +1,3 @@
-// Faisal Shaikh
-// Fshaikh1@unix.ucsc.edu
-// Student ID: 1463626
-// PA2
-
 //-----------------------------------------------------------------------------
 // FileIO.c
 // Illustrates file input-output commands and text processing using the
